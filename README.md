@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siri Chandana Kota
 
-## 💫 About Me
+## 💫 About Me:
 
 <p><strong>🎓 AI & ML Student | 🔬 IEEE Published Researcher</strong></p>
 <p><b>🤖 Passionate about Machine Learning, Deep Learning, and Data Science</b></p>
@@ -66,16 +66,6 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Sirichandanakota&theme=tokyo-night)
 
 ![](https://komarev.com/ghpvc/?username=Sirichandanakota&label=PROFILE+VIEWS&color=0e75b6&style=flat)
-
-
-# 💫 About Me:
-🎓 AI & ML Student | 🔬 IEEE Published Researcher<br>
-<br>🤖 Passionate about Machine Learning, Deep Learning, and Data Science<br>
-<br>💻 Interested in Web Development, UI/UX Design, and Digital Experiences<br>
-<br>🚀 Exploring AI, Data Analytics, and Modern Web Technologies<br>
-<br>💡 Driven by curiosity, creativity, and continuous learning<br>
-<br>🔥 Building solutions that create meaningful real-world impact
-
 
 
 
