@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siri-chandana-kota-aa4340298/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://sirichandanakota.github.io/Siri_Portfolio/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:kotasirichandana7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotasirichandana7@gmail.com)
 
 ---
 
@@ -64,6 +64,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Sirichandanakota&theme=tokyo-night)
 
-![](https://komarev.com/ghpvc/?username=Sirichandanakota&label=Profile%20Views&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Sirichandanakota&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 
