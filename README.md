@@ -55,9 +55,7 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Sirichandanakota&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
 ![](https://streak-stats.demolab.com?user=Sirichandanakota&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirichandanakota&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
@@ -66,48 +64,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Sirichandanakota&theme=tokyo-night)
 
-<!-- Hidden Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=Sirichandanakota&style=flat-square&color=blue&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Sirichandanakota&label=Profile%20Views&color=blue&style=for-the-badge)
 
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Obesity Risk Prediction – ML Web Application
-IEEE Published Research Project using DeepHealthNet and SHAP-based Explainable AI.
-
-### 🍽️ BrewBite – Smart QR-Based Food Ordering System
-Responsive restaurant ordering application with modern UI.
-
-### 📄 Resume Maker
-Professional resume builder with real-time preview and PDF generation.
-
----
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sirichandanakota&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sirichandanakota&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirichandanakota&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://komarev.com/ghpvc/?username=Sirichandanakota&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sirichandanakota&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=Sirichandanakota&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirichandanakota&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sirichandanakota&theme=tokyo-night)
-
-<!-- Hidden Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=Sirichandanakota&style=flat-square&color=blue&label=Profile+Views)
 
