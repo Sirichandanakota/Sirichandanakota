@@ -8,7 +8,8 @@
 🚀 Exploring AI, Data Analytics, and Modern Web Technologies<br>
 💡 Driven by curiosity, creativity, and continuous learning<br>
 🔥 Building solutions that create meaningful real-world impact
-</p>
+</p> 
+
 ---
 
 ## 🌐 Connect With Me
