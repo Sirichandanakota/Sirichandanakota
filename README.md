@@ -2,12 +2,12 @@
 
 ## 💫 About Me
 <p>
-🎓 AI & ML Student | 🔬 IEEE Published Researcher<br>
-🤖 Passionate about Machine Learning, Deep Learning, and Data Science<br>
-💻 Interested in Web Development, UI/UX Design, and Digital Experiences<br>
-🚀 Exploring AI, Data Analytics, and Modern Web Technologies<br>
-💡 Driven by curiosity, creativity, and continuous learning<br>
-🔥 Building solutions that create meaningful real-world impact
+<b>🎓 AI & ML Student | 🔬 IEEE Published Researcher</b>
+<b>🤖 Passionate about Machine Learning, Deep Learning, and Data Science</b>
+<b>💻 Interested in Web Development, UI/UX Design, and Digital Experiences</b>
+<b>🚀 Exploring AI, Data Analytics, and Modern Web Technologies</b>
+<b>💡 Driven by curiosity, creativity, and continuous learning</b>
+<b>🔥 Building solutions that create meaningful real-world impact</b>
 </p> 
 
 ---
