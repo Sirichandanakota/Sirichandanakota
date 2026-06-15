@@ -70,7 +70,7 @@ Professional resume builder with real-time preview and PDF generation.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Sirichandanakota&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sirichandanakota&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=Sirichandanakota&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Sirichandanakota&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
