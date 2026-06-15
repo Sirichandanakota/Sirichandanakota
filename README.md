@@ -3,13 +3,19 @@
 ## 💫 About Me
 
 
-🎓 AI & ML Student | IEEE Published Researcher  
-🤖 Passionate about Machine Learning, Deep Learning, Data Science, and Intelligent Systems  
-💻 Interested in Web Development, UI/UX Design, and creating intuitive digital experiences  
-📊 Developed an AI-powered obesity prediction system using DeepHealthNet and SHAP-based Explainable AI  
-🚀 Continuously learning, experimenting, and building projects that combine AI and modern web technologies  
-💡 Driven by curiosity, creativity, and the desire to make technology more impactful and accessible  
-🔥 I don't just build applications — I build meaningful solutions.
+🎓 AI & ML Student | 🔬 IEEE Published Researcher
+🤖 Passionate about Machine Learning, Deep Learning, and Data Science
+
+💻 Interested in Web Development, UI/UX Design, and Digital Experiences
+
+📊 Built an AI-powered Obesity Prediction System using Explainable AI
+
+🚀 Exploring AI, Data Analytics, and Modern Web Technologies
+
+💡 Driven by curiosity, creativity, and continuous learning
+
+🔥 Building solutions that create meaningful real-world impact
+
 
 ---
 ## 🌐 Connect With Me
