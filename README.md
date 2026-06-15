@@ -2,19 +2,19 @@
 
 ## 💫 About Me
 
-# 🎓 B.Tech CSE (AI & ML) Student at SR University
+## 🎓 B.Tech CSE (AI & ML) Student at SR University
 
-# 🔬 IEEE Published Researcher in Explainable AI
+## 🔬 IEEE Published Researcher in Explainable AI
 
-# 🤖 Passionate about Machine Learning, Deep Learning, Data Science, and Intelligent Systems
+## 🤖 Passionate about Machine Learning, Deep Learning, Data Science, and Intelligent Systems
 
-# 📊 Developed a DeepHealthNet-based Obesity Prediction System achieving 97% accuracy
+## 📊 Developed a DeepHealthNet-based Obesity Prediction System achieving 97% accuracy
 
-# 🏆 Semester Topper | Data Science Club Core Committee Member
+## 🏆 Semester Topper | Data Science Club Core Committee Member
 
-# 💡 Interested in building AI-powered solutions that solve real-world problems
+## 💡 Interested in building AI-powered solutions that solve real-world problems
 
-# 🔥 I don't just build models — I build intelligent solutions.
+## 🔥 I don't just build models — I build intelligent solutions.
 
 ---
 
