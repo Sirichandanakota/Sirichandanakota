@@ -2,21 +2,20 @@
 
 ## 💫 About Me
 
-### - AI & ML Student | IEEE Published Researcher 
-### - Passionate about Machine Learning, Deep Learning, Data Science, and Intelligent Systems
-### - Interested in Web Development, UI/UX Design, and creating intuitive digital experience 
-### - Developed an AI-powered obesity prediction system using DeepHealthNet and SHAP-based Explainable AI
-### - Continuously learning, experimenting, and building projects that combine AI and modern web technologies 
-### - Driven by curiosity, creativity, and the desire to make technology more impactful and accessible.
-### 🔥 I don't just build applications — I build meaningful solutions.
-
+🎓 AI & ML Student | IEEE Published Researcher  
+🤖 Passionate about Machine Learning, Deep Learning, Data Science, and Intelligent Systems  
+💻 Interested in Web Development, UI/UX Design, and creating intuitive digital experiences  
+📊 Developed an AI-powered obesity prediction system using DeepHealthNet and SHAP-based Explainable AI  
+🚀 Continuously learning, experimenting, and building projects that combine AI and modern web technologies  
+💡 Driven by curiosity, creativity, and the desire to make technology more impactful and accessible  
+🔥 I don't just build applications — I build meaningful solutions.
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siri-chandana-kota-aa4340298/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://sirichandanakota.github.io/Siri_Portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotasirichandana7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotasirichandana7@gmail.com)
 
 ---
 
