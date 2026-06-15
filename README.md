@@ -7,9 +7,10 @@
 💻 Interested in Web Development, UI/UX Design, and Digital Experiences<br>
 🚀 Exploring AI, Data Analytics, and Modern Web Technologies<br>
 💡 Driven by curiosity, creativity, and continuous learning<br>
-🔥 Building solutions that create meaningful real-world impact<br>
+🔥 Building solutions that create meaningful real-world impact
 </p>
 ---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siri-chandana-kota-aa4340298/)
