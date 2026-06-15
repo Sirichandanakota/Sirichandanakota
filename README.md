@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Siri Chandana Kota
 
 ## 💫 About Me
-<p>
-<b>🎓 AI & ML Student | 🔬 IEEE Published Researcher</b>
-<b>🤖 Passionate about Machine Learning, Deep Learning, and Data Science</b>
-<b>💻 Interested in Web Development, UI/UX Design, and Digital Experiences</b>
-<b>🚀 Exploring AI, Data Analytics, and Modern Web Technologies</b>
-<b>💡 Driven by curiosity, creativity, and continuous learning</b>
-<b>🔥 Building solutions that create meaningful real-world impact</b>
-</p> 
+
+<p><b>🎓 AI & ML Student | 🔬 IEEE Published Researcher</b></p>
+<p><b>🤖 Passionate about Machine Learning, Deep Learning, and Data Science</b></p>
+<p><b>💻 Interested in Web Development, UI/UX Design, and Digital Experiences</b></p>
+<p><b>🚀 Exploring AI, Data Analytics, and Modern Web Technologies</b></p>
+<p><b>💡 Driven by curiosity, creativity, and continuous learning</b></p>
+<p><b>🔥 Building solutions that create meaningful real-world impact</b></p>
+ 
 
 ---
 
