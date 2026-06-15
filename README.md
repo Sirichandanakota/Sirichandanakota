@@ -2,13 +2,13 @@
 
 ## 💫 About Me
 
-### 🎓 B.Tech CSE (AI & ML) Student at SR University
-### 🔬 IEEE Published Researcher in Explainable AI
+### 🎓 AI & ML Student | IEEE Published Researcher
 ### 🤖 Passionate about Machine Learning, Deep Learning, Data Science, and Intelligent Systems
-### 📊 Developed a DeepHealthNet-based Obesity Prediction System achieving 97% accuracy
-### 🏆 Semester Topper | Data Science Club Core Committee Member
-### 💡 Interested in building AI-powered solutions that solve real-world problems
-
+### 💻 Interested in Web Development, UI/UX Design, and creating intuitive digital experience
+### 📊 Developed an AI-powered obesity prediction system using DeepHealthNet and SHAP-based Explainable AI
+### 🚀 Continuously learning, experimenting, and building projects that combine AI and modern web technologies
+### 💡 Driven by curiosity, creativity, and the desire to make technology more impactful and accessible.
+### 🔥 I don't just build applications — I build meaningful solutions.
 
 ---
 
@@ -65,9 +65,7 @@ Professional resume builder with real-time preview and PDF generation.
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Sirichandanakota&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sirichandanakota&theme=tokyonight&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirichandanakota&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
