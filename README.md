@@ -61,10 +61,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sirichandanakota&theme=tokyo-night)
-
 ![](https://komarev.com/ghpvc/?username=Sirichandanakota&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 
