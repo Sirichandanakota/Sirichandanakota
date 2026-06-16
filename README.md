@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-<p><strong>🎓 AI & ML Student | 🔬 IEEE Published Researcher</strong></p>
+<p><strong>🎓 AI & ML Student | 🔬 IEEE Published Researcher </strong></p>
 <p><b>🤖 Passionate about Machine Learning, Deep Learning, and Data Science</b></p>
 <p><b>💻 Interested in Web Development, UI/UX Design, and Digital Experiences</b></p>
 <p><b>🚀 Exploring AI, Data Analytics, and Modern Web Technologies</b></p>
@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siri-chandana-kota-aa4340298/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://sirichandanakota.github.io/Siri_Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotasirichandana7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotasirichandana7@gmail.com)
 
 ---
 
